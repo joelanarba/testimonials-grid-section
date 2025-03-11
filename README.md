@@ -63,3 +63,4 @@ Moving forward, I want to:
 
 - Frontend Mentor - [@joelanarba](https://www.frontendmentor.io/profile/joelanarba)
 - LinkedIn - [@joelanarba](https://www.linkedin.com/in/joelanarba/)
+- Twitter - [@joel_anarba](https://x.com/joel_anarba)
